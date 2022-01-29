@@ -104,17 +104,3 @@ respostas_dict = {
 trasforma o dicionário em um df pandas
 respostas_nps_pf_df = pd.DataFrame.from_dict(respostas_dict)
 print(respostas_nps_pf_df.head())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
